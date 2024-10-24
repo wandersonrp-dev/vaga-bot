@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VagaBot.WorkerService", "VagaBot.WorkerService\VagaBot.WorkerService.csproj", "{264AB3BF-3276-4522-9DEE-7B06EE4945BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VagaBot.Core", "VagaBot.Core\VagaBot.Core.csproj", "{84B05AA1-511D-48BB-BCAF-B1B4A4000AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264AB3BF-3276-4522-9DEE-7B06EE4945BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264AB3BF-3276-4522-9DEE-7B06EE4945BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264AB3BF-3276-4522-9DEE-7B06EE4945BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264AB3BF-3276-4522-9DEE-7B06EE4945BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B05AA1-511D-48BB-BCAF-B1B4A4000AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B05AA1-511D-48BB-BCAF-B1B4A4000AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B05AA1-511D-48BB-BCAF-B1B4A4000AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B05AA1-511D-48BB-BCAF-B1B4A4000AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2062A95E-BF9C-421D-8AF2-8AE05579FF20}
+	EndGlobalSection
+EndGlobal
